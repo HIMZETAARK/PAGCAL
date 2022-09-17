@@ -1,0 +1,54 @@
+body{
+    background-color:#192229;  
+}
+.inicio{
+    min-height: 50px;
+    width: 100%;
+    background-color: #212E36;
+    color: #EFF3F5;
+    border: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+ 
+}
+
+.texto{
+  
+    color: #f0f8ff;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calcular{
+    border-radius: 15px;
+    min-height: 45px;
+    color: rgb(250, 250, 250);
+    background-color:#52A5E0;
+    border: 0px;
+    width:20%;
+    margin-left:40%;
+    margin-right:40%;
+    
+}
+.form-control{
+    border-radius: 10px;
+    min-height: 50px;
+    border: 0px;
+    width: 50%;
+    margin-left:25%;
+    margin-right:25%;
+    background-color:#A0A7AC;
+
+}
+.visually-hidden{
+    
+    color: #f0f8ff;
+    min-height: 50px;
+    width: 50%;
+    margin-left:25%;
+    margin-right:25%;
+
+ 
+
+}
